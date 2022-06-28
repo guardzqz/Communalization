@@ -1,0 +1,129 @@
+case1:
+  - re_page
+  - set_events: ['event_rem_1', 'event_rem_2']
+  - p
+  - slide_left
+  - p
+  - event_rights
+  - p
+  - slide_left
+  - click: [280,220]    #点击删除第二条事件
+  - p
+  - click: [150,80] #点击第列表一条事项
+  - p
+  - click: [150,220] #点击详情页删除按钮
+  - p
+  - del_all_events
+
+case2:
+  - set_events: ['event_rem_1']
+  - p
+  - click: [150,100] #点击第列表一条事项
+  - p
+  - slide_up
+  - p
+  - slide_right
+  - del_all_events
+  - set_events: ['event_rem_2', 'event_rem_3']
+  - p
+  - set_h_unit: '12'
+  - p
+  - del_all_events
+  - set_events: ['event_rem_4', 'event_rem_5']
+  - p
+  - set_h_unit: '12'
+  - p
+  - del_all_events
+
+case3:
+   - while_operation:
+      - 7      #循环触发提醒事件次数
+      - touch_rem: 'event_rem_i'
+      - p
+      - reverse_h_unit
+      - sleep
+      - p
+      - slide_right
+      - del_all_events
+
+case4:
+  - while_operation:
+    - 7      #循环触发提醒事件次数
+    - touch_rem: 'event_rem_i'
+    - click: [150,50] #点击弹出提醒
+    - p
+    - reverse_h_unit
+    - p
+    - slide_up
+    - click: [150,220] #点击详情页删除按钮
+    - del_all_events
+
+case5:
+  - set_events: ['event_rem_1', 'event_rem_2']
+  - p
+  - del_all_events
+  - set_events: ['event_rem_3', 'event_rem_4']
+  - p
+  - set_time_rem: 'event_rem_3'
+  - p
+  - slide_right
+  - re_page
+  - p
+  - del_all_events
+  - set_events: ['event_rem_5', 'event_rem_6', 'event_rem_7', 'event_rem_8', 'event_rem_9', 'event_rem_10', 'event_rem_11', 'event_rem_12', 'event_rem_13', 'event_rem_14']
+  - re_page
+  - p
+  - slide_up
+  - p
+  - slide_up
+  - p
+  - set_time_rem: 'event_rem_5'
+  - slide_right
+  - re_page
+  - slide_up
+  - slide_up
+  - slide_up
+  - slide_up
+  - p
+  - set_time_rem: 'event_rem_9'
+  - slide_right
+  - re_page
+  - p
+  - slide_up
+  - p
+  - slide_up
+  - p
+  - del_all_events
+
+case6:
+  - set_events: ['event_rem_1', 'event_rem_2', 'event_rem_3', 'event_rem_4', 'event_rem_5', 'event_rem_6', 'event_rem_7', 'event_rem_8', 'event_rem_9',
+                 'event_rem_10', 'event_rem_11', 'event_rem_12', 'event_rem_13', 'event_rem_14', 'event_rem_15','event_rem_16', 'event_rem_17', 'event_rem_18',
+                  'event_rem_19','event_rem_20', 'event_rem_21', 'event_rem_22', 'event_rem_23', 'event_rem_24', 'event_rem_25', 'event_rem_26', 'event_rem_27',
+                  'event_rem_28', 'event_rem_29', 'event_rem_30']
+  - while_operation:
+      - 11
+      - p
+      - slide_up
+  - del_all_events
+
+case7:
+  - while_operation:
+      - 10      #循环触发提醒事件次数
+      - new_excel_row
+      - set_events: ['event_rem_i']
+      - p
+      - click: [150,100]   #点击第列表一条事项
+      - p
+      - set_time_rem: 'event_rem_i'      #设置到提醒时间,触发提醒事件
+      - p
+      - click: [150,50] #点击弹出提醒
+      - p
+      - slide_up
+      - click: [150,220] #点击详情页删除按钮
+      - save_excel_row
+      - del_all_events
+
+
+
+
+

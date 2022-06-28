@@ -1,0 +1,110 @@
+case_list_1 :
+    - into_music
+    - close_music
+    - p
+    - open_music
+    - p
+
+case_list_2 :
+    - while_operation:
+        - 12      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_3 :
+    - while_operation:
+        - 7      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_4 :
+    - while_operation:
+        - 10      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+
+case_list_5 :
+    - while_operation:
+        - 9      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_6 :
+    - while_operation:
+        - 10      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_7 :
+    - while_operation:
+        - 11      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_8 :
+    - while_operation:
+        - 10      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_9 :
+    - while_operation:
+        - 12      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+
+case_list_10 :
+    - while_operation:
+        - 13      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_11 :
+    - while_operation:
+        - 5      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+case_list_12 :
+    - while_operation:
+        - 2      #循环触发提醒事件次数
+        - set_music_2
+        - slide_left
+        - slide_right
+        - p
+
+
+case_list_13 :
+    - p
+    - drink_water
+    - p
+    - slide_right
+    - slide_left
+    - p
+    - messenger
+    - p
+    - slide_right
+
+

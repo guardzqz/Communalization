@@ -1,0 +1,482 @@
+case_data_1:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/6/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5 #排卵日后5天是易孕期
+    ovulation_after_day: 4  #排卵日前4天是易孕期
+    notify_flag: 关闭通知
+    dateing: 2021/7/21
+    hour: 14/00
+
+
+  date: ['2021/7/21','2021/7/24','2021/7/27','2021/7/27/23/59','2021/7/30','2021/8/1','2021/8/1/23/59','2021/8/6','2021/8/10','2021/8/10/23/59','2021/8/19','2021/8/19/23/59']
+  entry: ['月经期第1天，距经期结束还有7天','月经期第4天，距经期结束还有4天','月经期第7天，距经期结束还有1天',
+          '距易孕期5天，距排卵日9天','距易孕期3天，距排卵日7天','距易孕期1天，距排卵日5天',
+          '易孕期第1天，距易孕期结束10天','易孕期第5天”，“距易孕期结束6天','易孕期第10天，距易孕期结束1天',
+          '距月经期9天，预测月经期20/8开始','距月经期1天，预测月经期20/8开始','月经期第1天，距月经期结束7天']
+  his: [['2021/7/21',7,28],['2021/6/21',7,28],['2021/5/22',7,28],['2021/4/22',7,28],['2021/3/23',7,28]]
+
+case_data_2:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/7/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 关闭通知
+    dateing: 2021/7/21
+    hour: 14/00
+
+  date: ['2021/7/21','2021/7/28','2021/7/29']
+  entry: ['平均经期：7天,平均周期：30天','当次显示一个柱子，且点亮','平均经期：6天,平均周期：29天','5次历史数据柱状图','....','****']
+  his: [['2021/7/21',7,30],['2021/6/21',6,30],['2021/5/22',6,31],['2021/4/22',6,28],['2021/3/23',7,28]]
+
+case_data_3:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/6/24
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 3
+    menstrual_day_end: 2
+
+  date: ['2021/7/20/13/59','2021/7/21/13/59','2021/7/22/13/59','2021/7/23/13/59','2021/7/24/13/59','2021/7/25/13/59']
+  entry: ['触发来电提醒','触发通知提醒','触发闹钟提醒','触发喝水提醒','触发目标达成提醒','不进入经期开始提醒']
+  entry2: ['距离经期还有4天,预计24/7经期开始','预计24/7经期开始,距离经期还有3天','预计24/7经期开始,距离经期还有2天','预计24/7经期开始,距离经期还有1天','月经期第1天','月经期第2天']
+  translate: [0,1,1,1,1,0]
+
+
+case_data_32:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/6/24
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 3
+    menstrual_day_end: 1
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 3
+    menstrual_day_end: 3
+
+
+  date: ['2021/7/20/13/59','2021/7/21/13/59','2021/7/22/13/59','2021/7/23/13/59','2021/7/24/13/59','2021/7/25/13/59']
+  date2: ['2021/7/1/13/59','2021/7/31/13/59','2021/7/31/13/59','2021/7/31/13/59']
+  entry: ['不进入经期开始提醒','预计24/7经期开始','预计24/7经期开始','预计明天24/7经期开始','预计今天经期开始','不进入经期开始提醒']
+  entry2: ['距离经期还有4天,预计24/7经期开始','预计24/7经期开始,距离经期还有3天','预计24/7经期开始,距离经期还有2天','预计24/7经期开始,距离经期还有1天','月经期第1天','月经期第2天']
+  entry3: ['跨1个月-经期开始提醒检查','跨2个月-经期开始提醒检查','消息中心查看----经期开始提醒','运动中----触发经期开始提醒']
+  translate: [0,1,1,1,1,0]
+
+
+case_data_42:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/6/24
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 3
+    menstrual_day_end: 3
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 6
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  date: ['2021/7/26/13/59','2021/7/27/13/59','2021/7/28/13/59','2021/7/29/13/59','2021/7/30/13/59','2021/7/31/13/59']
+  date2: ['2021/7/6/13/59','2021/8/5/13/59','2021/8/5/13/59','2021/8/5/13/59']
+  entry: ['--14:00不进入经期结束提醒','--预计30/7经期结束','--预计30/7经期结束','--预计明天30/7经期结束','--预计今天经期结束','--14:00不进入经期结束提醒']
+  entry2: ['--月经期第3天','--月经期第4天','--月经期第5天','--月经期第6天','--月经期第7天','--易孕第4天']
+  entry3: ['跨1个月-进入经期结束提醒','跨2个月-进入经期结束提醒','消息中心查看----进入经期结束提醒','运动中----进入经期结束提醒']
+  translate: [0,1,1,1,1,0]
+
+
+
+case_data_50:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/7/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 3
+    menstrual_day_end: 3
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  date: [ '2021/7/28/13/59','2021/7/29/13/59','2021/7/30/13/59','2021/7/31/13/59','2021/8/1/13/59','2021/8/2/13/59' ]
+  date2: ['2021/6/12/13/59','2021/7/12/13/59','2021/7/12/13/59','2021/7/12/13/59']
+  entry: [ '--不进入易孕期开始提醒','--预计1/8易孕期开始','--预计1/8易孕期开始','--预计明天1/8易孕期开始','--预计今天易孕期开始','--不进入易孕期开始提醒' ]
+  entry2: [ '--距离易孕期第4天','--距离易孕期第3天','--距离易孕期第2天','--距离易孕期第1天','--易孕期第1天','--易孕期第2天' ]
+  entry3: ['跨1个月--进入易孕期开始提醒','跨2个月--进入易孕期开始提醒','消息中心查看--进入易孕期开始提醒','运动中--进入易孕期开始提醒']
+  translate: [ 0,1,1,1,1,0 ]
+
+
+case_data_58:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/7/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 3
+    menstrual_day_end: 3
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  date: [ '2021/8/6/13/59','2021/8/7/13/59','2021/8/8/13/59','2021/8/9/13/59','2021/8/10/13/59','2021/8/11/13/59' ]
+  date2: ['2021/6/21/13/59','2021/7/21/13/59','2021/7/21/13/59','2021/7/21/13/59']
+  entry: [ '--不进入易孕期结束提醒','--预计10/8易孕期结束','--预计10/8易孕期结束','--预计明天10/8易孕期结束','--预计今天易孕期结束','--不进入易孕期结束提醒' ]
+  entry2: [ '--易孕期第6天','--易孕期第7天','--易孕期第8天','--易孕期第9天','--易孕期第10天','--距离月经期第9天' ]
+  entry3: ['跨1个月--进入易孕期结束提醒','跨2个月--进入易孕期结束提醒','消息中心查看--进入易孕期结束提醒','运动中--进入易孕期结束提醒']
+  translate: [ 1,1,1,1,1,0 ]
+
+
+case_data_66:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/7/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/8/1
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 3
+    pregnancy_day_before: 3
+    pregnancy_day_end: 2
+    menstrual_day_end: 3
+
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  date: [ '2021/8/2/13/59','2021/8/3/13/59','2021/8/4/13/59','2021/8/5/13/59','2021/8/6/13/59','2021/8/7/13/59' ]
+  entry: [ '--不进入排卵日提醒','--预计6/8排卵日','--预计6/8排卵日','--预计明天6/8排卵日','--预计今天排卵日','不进入排卵日提醒' ]
+  entry2: [ '--易孕期第2天','--易孕期第3天','--易孕期第4天','--易孕期第5天','--易孕期第6天','--易孕期第7天' ]
+  date2: ['2021/6/17/13/59','2021/7/17/13/59','2021/7/17/13/59','2021/7/17/13/59']
+  entry3: ['跨1个月--进入排卵日提醒','跨2个月--进入排卵日提醒','消息中心查看--进入排卵日提醒','运动中--进入排卵日提醒']
+  translate: [ 0,1,1,1,1,0 ]
+
+
+case_data_67:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/7/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 3
+    ovulation_day: 2
+    pregnancy_day_before: 3
+    pregnancy_day_end: 2
+    menstrual_day_end: 3
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  date: [ '2021/8/3/13/59','2021/8/4/13/59','2021/8/5/13/59','2021/8/6/13/59','2021/8/7/13/59']
+  entry: [ '--不进入排卵日提醒','--预计6/8排卵日','--预计明天6/8排卵日','--预计今天排卵日','不进入排卵日提醒' ]
+  entry2: [ '--易孕期第3天','--易孕期第4天','--易孕期第5天','--易孕期第6天','--易孕期第7天']
+  date2: [ '2021/6/17/13/59','2021/7/17/13/59','2021/7/17/13/59','2021/7/17/13/59' ]
+  entry3: [ '跨1个月--进入排卵日提醒','跨2个月--进入排卵日提醒','消息中心查看--进入排卵日提醒','运动中--进入排卵日提醒' ]
+  translate: [ 0,1,1,1,0 ]
+
+case_data_68:
+  initial:
+    off_on: '开'
+    menstrual_lenth: 5
+    menstrual_cycle: 30
+    date: 2021/7/21
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/7/19
+
+  rem_time:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  date: [ '2021/8/4/13/59','2021/8/5/13/59','2021/8/6/13/59','2021/8/7/13/59']
+  entry: [ '--不进入排卵日提醒','--预计6/8排卵日','--预计今天排卵日','不进入排卵日提醒' ]
+  entry2: [ '--易孕期第4天','--易孕期第5天','--距离易孕期第6天','--易孕期第7天']
+  date2: [ '2021/6/17/13/59','2021/7/17/13/59','2021/7/17/13/59','2021/7/17/13/59' ]
+  entry3: [ '跨1个月--进入排卵日提醒','跨2个月--进入排卵日提醒','消息中心查看--进入排卵日提醒','运动中--进入排卵日提醒' ]
+  translate: [ 0,1,1,0 ]
+
+
+case_data_69:
+
+  initial:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/3
+
+  rem_time:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+  initial2:
+    off_on: '开'
+    menstrual_lenth: 7
+    menstrual_cycle: 30
+    date: 2021/5/2
+    ovulation_interval_day: 14
+    ovulation_before_day: 5
+    ovulation_after_day: 4
+    notify_flag: 允许通知
+    dateing: 2021/5/1
+
+  rem_time2:
+    hour: 14/00
+    start_day: 1
+    ovulation_day: 1
+    pregnancy_day_before: 1
+    pregnancy_day_end: 1
+    menstrual_day_end: 1
+
+
+  date: [ '2021/5/18/13/59','2021/6/17/13/59','2021/7/17/13/59']
+  entry: [ '--14:00进入排卵日提醒','--14:00进入排卵日提醒','--14:00进入排卵日提醒' ]
+  entry2: [ '--易孕期第4天','--易孕期第5天','--距离易孕期第6天']
+  date2: [ '2021/6/17/13/59','2021/7/17/13/59','2021/7/17/13/59','2021/7/17/13/59' ]
+  entry3: [ '跨1个月--进入排卵日提醒','跨2个月--进入排卵日提醒','消息中心查看--进入排卵日提醒','运动中--进入排卵日提醒' ]
+  translate: [ 1,1,1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

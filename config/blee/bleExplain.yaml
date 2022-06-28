@@ -1,0 +1,74 @@
+App获取闹钟列表:
+  function: alarm-getAlarmV3
+  cmd_id: 0x0F
+  flag: 获取闹钟标志，flag = 0,获取所有的闹钟; flag = 1,收到通知，获取手环修改的闹钟
+  示例: getAlarmV3(0)
+
+app设置ble的V3闹钟:
+  function: alarm-setAlarmV3
+  cmd_id: 0x0E
+  status: 状态，0x55显示 0xAA不显示
+  type: 类型：0x00起床 0x01睡觉 0x02锻炼 0x03吃药 0x04约会 0x05聚会 0x06会议 0x07其他
+  hour: 时（24小时制）
+  minute: 分
+  repeat: 重复 参数传：不重复，周一，周二，周二，周三，周四，周五，周六，周日，每天，工作日
+  tsnooze_duration: 贪睡时长，分钟 0~60
+  delay_min: 延时分钟，分钟 0~60
+  shock_on_off: 震动开关 0关闭 1开启
+  repeat_times: 重复闹铃次数 重复闹几次
+  name: 闹钟名称
+  示例: alarm.setAlarmV3(['显示', '锻炼', 12, 1, '周一，周二'], ['不显示', '会议',2021, 12, 0, 0, 0, 0, 0,'jihuf'])
+
+app设置手表亮度:
+  function: Lightness-setLightV2
+  cmd: 0x03
+  key: 0x32
+  level: 亮度等级 0-100
+  opera: 0自动，1手动
+  mode: 0指定等级，1使用环境光传感器，2level不起作用
+  auto_adjust_night: 夜间自动亮度调整，0无效，固件定义，1关闭，2夜间自动调整亮度，3夜间亮度使用设置的时间
+  start_hour: 时
+  start_minute: 分
+  end_hour: 时
+  end_minute: 分
+  night_level: 夜间亮度
+  show_interval: 显示间隔
+  示例: Lightness.setLightV2(10,18)， 参数为level，show_interval
+
+设置运动排列顺序:
+  function: sport-setSportV3
+  cmd_id: 0x33
+  version: 版本号
+  operat: 操作 0 无效 1 查询 2 设置
+  all_num: 个数 排列中的个数
+  item*: 运动项
+  示例: sport.setSportV3(['户外跑步', '室内跑步', '户外步行', '室内步行', '户外骑行', '室内骑行', '泳池游泳', '开放水域游泳', '徒步', '瑜伽', '划船机', '椭圆机', '板球', '健身', '高强度间歇训练', '功能性力量训练', '核心训练', '舞蹈', '踏步机', '整理放松', '传统力量训练', '有氧健身操', '普拉提', '仰卧起坐', '平板支撑', '开合跳', '引体向上', '俯卧撑', '深蹲', '高抬腿', '哑铃', '杠铃', '拳击', '武术', '太极', '跆拳道', '空手道', '自由搏击', '击剑', '射箭', '体操', '单杠', '双杠', '漫步机', '登山机', '保龄球', '网球', '乒乓球', '高尔夫球', '足球', '篮球', '台球', '羽毛球', '曲棍球', '橄榄球', '壁球', '垒球', '手球', '毽球', '棒球', '沙滩足球', '藤球', '躲避球', '广场舞', '街舞', '芭蕾', '社交舞', '登山', '跳绳', '飞盘', '飞镖', '骑马', '爬楼', '放风筝', '钓鱼', '雪橇', '雪车', '滑冰', '单板滑雪', '高山滑雪', '越野滑雪', '雪上运动', '冰壶', '冰球', '冬季两项', '冲浪', '帆船', '帆板', '皮艇', '划艇', '赛艇', '摩托艇', '龙舟', '水球', '漂流', '滑板', '攀岩', '蹦极', '跑酷', 'bmx'])
+
+经期设置:
+  function: menstrual-setMenstrualV2
+  cmd: 0x03
+  key: 0x41
+  示例: menstrual.setMenstrualV2(['开', 2, 2022, 4, 5, 6, 7, 8, 9, 10])
+
+经期提醒设置:
+  function: menstrual-setMenstrualRemindV2
+  cmd: 0x03
+  key: 0x42
+  示例: menstrual.setMenstrualRemindV2([1, 2, 9, 2, 2, 2])
+
+经期的历史数据下发:
+  function: menstrual-historicalMenstruationV3
+  cmd_id: 0x3D
+  示例: menstrual.historicalMenstruationV3([[2021, 2, 1, 7, 27], [2021, 1, 3, 5, 30],  [2021, 9, 1, 7, 30], [2021, 1, 1, 7, 30]])
+
+设置时间:
+  function: comFunc-setTime
+  cmd: 0x03
+  key: 0x01
+  示例: comFunc.setTime('2022/4/11 10:38', '8')
+
+单位设置:
+  function: comFunc-setUnit
+  cmd: 0x03
+  key: 0x11
+  示例:

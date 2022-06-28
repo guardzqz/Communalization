@@ -1,0 +1,1345 @@
+2022-06-16 08:43:11.996 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 08:43:16.971 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:43:16.972 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 08:43:16.972 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 08:43:16.973 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:43:16.973 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:43:16.974 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:43:16.974 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:43:16.980 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:43:16.986 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:43:16.987 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:43:16.987 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 08:43:17.009 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:43:17.095 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 08:43:17.096 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:43:17.097 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:43:17.098 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:43:17.098 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:43:17.098 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:43:17.099 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:43:17.100 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:43:17.101 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'无运动记录': []}
+2022-06-16 08:43:17.605 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:43:46.934 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 08:43:49.489 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:43:49.490 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 08:43:49.490 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 08:43:49.491 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:43:49.491 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:43:49.492 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:43:49.492 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:43:49.493 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:43:49.493 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:43:49.494 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:43:49.495 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 08:43:49.516 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:43:49.596 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 08:43:49.597 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:43:49.598 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:43:49.598 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:43:49.599 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:43:49.599 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:43:49.600 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:43:49.601 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:43:49.602 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'无运动记录': []}
+2022-06-16 08:43:50.109 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:45:43.007 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 08:45:45.443 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:45:45.444 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 08:45:45.445 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 08:45:45.445 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:45:45.445 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:45:45.446 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:45:45.446 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:45:45.447 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:45:45.448 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:45:45.449 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:45:45.449 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 08:45:45.470 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:45:45.553 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 08:45:45.554 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:45:45.554 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:45:45.555 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:45:45.555 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:45:45.556 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:45:45.556 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:45:45.557 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:45:45.558 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'无运动记录': []}
+2022-06-16 08:45:46.067 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:11.710 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 08:50:14.097 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:50:14.098 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 08:50:14.099 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 08:50:14.099 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:50:14.100 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:50:14.100 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:50:14.101 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:50:14.101 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:50:14.102 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:50:14.103 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:50:14.103 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 08:50:14.124 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:14.207 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 08:50:14.208 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:50:14.208 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:50:14.209 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:50:14.209 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:50:14.210 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:50:14.210 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:50:14.211 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:50:14.212 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'无运动记录': []}
+2022-06-16 08:50:14.724 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:18.983 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:23.282 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:27.463 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:31.593 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:35.786 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:40.413 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '无运动记录')
+2022-06-16 08:50:40.413 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:50:40.414 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p'])])
+2022-06-16 08:50:40.416 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据无运动记录
+2022-06-16 08:50:41.923 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:46.142 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:50.305 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:54.036 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:50:54.037 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:50:54.038 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:50:54.038 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:50:54.039 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:50:54.040 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:50:54.041 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:50:54.043 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', [])])
+2022-06-16 08:50:54.546 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:50:58.701 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:02.904 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:07.136 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:11.276 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:15.401 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:19.620 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:23.758 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:27.904 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:32.041 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:36.669 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '时间目标')
+2022-06-16 08:51:36.671 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:51:36.673 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p'])])
+2022-06-16 08:51:36.675 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据时间目标
+2022-06-16 08:51:38.178 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:42.369 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:46.580 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:50.757 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:54.852 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:51:59.021 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:03.188 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:07.360 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:11.511 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:15.653 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:19.781 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:24.500 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '时间目标50%')
+2022-06-16 08:52:24.500 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:52:24.502 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p'])])
+2022-06-16 08:52:24.504 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据时间目标50%
+2022-06-16 08:52:26.023 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:30.211 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:34.299 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:38.513 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:42.650 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:46.834 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:51.002 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:55.150 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:52:59.278 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:03.440 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:07.516 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:11.642 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:15.680 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:19.731 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:23.823 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:27.939 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:32.089 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:36.262 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:40.454 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:44.850 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:48.938 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:53.609 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '时间目标100%')
+2022-06-16 08:53:53.609 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:53:53.611 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p'])])
+2022-06-16 08:53:53.613 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据时间目标100%
+2022-06-16 08:53:55.116 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:53:59.249 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:03.330 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:07.486 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:11.160 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:54:11.160 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:54:11.161 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:54:11.161 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:54:11.163 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:54:11.165 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:54:11.166 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:54:11.170 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', [])])
+2022-06-16 08:54:11.678 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:15.857 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:19.983 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:24.155 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:28.340 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:32.500 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:36.670 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:40.803 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:45.444 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '卡路里目标')
+2022-06-16 08:54:45.444 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:54:45.446 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p'])])
+2022-06-16 08:54:45.448 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据卡路里目标
+2022-06-16 08:54:46.965 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:51.033 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:55.161 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:54:59.331 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:03.430 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:07.495 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:11.594 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:15.772 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:19.825 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:24.015 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:28.064 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:32.733 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '卡路里目标50%')
+2022-06-16 08:55:32.733 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:55:32.735 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p'])])
+2022-06-16 08:55:32.737 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据卡路里目标50%
+2022-06-16 08:55:34.255 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:38.429 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:42.575 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:46.702 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:50.831 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:54.871 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:55:59.004 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:03.120 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:07.286 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:11.375 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:15.538 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:19.622 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:23.737 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:27.885 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:32.001 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:36.144 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:40.321 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:44.505 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:48.524 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:52.669 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:56:57.305 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '卡路里目标100%')
+2022-06-16 08:56:57.305 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:56:57.307 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p'])])
+2022-06-16 08:56:57.309 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据卡路里目标100%
+2022-06-16 08:56:58.831 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:02.984 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:07.090 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:11.242 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:14.984 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 08:57:14.985 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 08:57:14.985 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 08:57:14.986 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 08:57:14.988 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 08:57:14.990 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 08:57:14.991 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 08:57:14.995 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', [])])
+2022-06-16 08:57:15.501 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:19.535 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:23.612 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:27.693 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:31.863 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:36.014 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:40.124 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:44.244 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:48.868 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '距离目标')
+2022-06-16 08:57:48.868 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:57:48.870 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p'])])
+2022-06-16 08:57:48.872 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据距离目标
+2022-06-16 08:57:50.389 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:54.622 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:57:58.716 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:02.853 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:06.989 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:11.069 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:15.187 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:19.323 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:23.450 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:27.561 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:32.132 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '距离目标50%')
+2022-06-16 08:58:32.132 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:58:32.134 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p'])])
+2022-06-16 08:58:32.137 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据距离目标50%
+2022-06-16 08:58:33.650 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:38.087 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:42.303 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:46.395 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:50.476 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:54.544 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:58:58.673 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:02.794 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:06.859 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:10.952 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:15.024 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:19.144 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:23.243 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:27.338 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:31.466 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:35.585 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:39.774 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:43.914 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:48.078 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:52.623 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '距离目标100%')
+2022-06-16 08:59:52.625 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 08:59:52.629 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p'])])
+2022-06-16 08:59:52.631 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据距离目标100%
+2022-06-16 08:59:54.145 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 08:59:58.245 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:04.327 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '英制')
+2022-06-16 09:00:04.327 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:00:04.330 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:00:04.332 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据英制
+2022-06-16 09:00:05.847 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:12.002 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '公制')
+2022-06-16 09:00:12.003 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:00:12.007 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:00:12.009 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据公制
+2022-06-16 09:00:13.523 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:17.634 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:21.714 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:25.815 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:29.651 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:00:29.652 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:00:29.653 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:00:29.653 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:00:29.656 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:00:29.660 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:00:29.661 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:00:29.666 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', [])])
+2022-06-16 09:00:30.168 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:34.701 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:38.926 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:43.022 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:47.111 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:51.207 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:55.335 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:00:59.473 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:03.692 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:07.780 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:12.325 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:16.339 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:20.512 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:24.590 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:28.632 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:32.803 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:36.951 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:40.981 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:45.272 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:49.398 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:53.526 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:01:58.130 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '户外跑步')
+2022-06-16 09:01:58.130 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:01:58.133 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p'])])
+2022-06-16 09:01:58.136 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据户外跑步
+2022-06-16 09:01:59.649 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:05.716 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:02:05.716 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:05.719 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p'])])
+2022-06-16 09:02:05.721 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:02:07.235 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:11.876 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:02:11.876 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:11.879 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p'])])
+2022-06-16 09:02:11.882 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:02:13.384 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:17.987 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:02:17.987 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:17.992 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:02:17.995 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:02:19.509 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:24.176 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:02:24.176 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:24.179 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:02:24.182 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:02:25.697 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:30.264 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:02:30.264 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:30.267 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:02:30.270 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:02:31.776 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:36.344 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:02:36.344 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:36.346 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:02:36.349 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:02:37.870 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:42.510 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:02:42.510 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:42.514 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:02:42.516 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:02:44.021 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:48.618 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:02:48.620 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:48.625 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:02:48.628 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:02:50.137 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:02:54.813 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:02:54.813 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:02:54.816 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:02:54.819 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:02:56.340 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:00.921 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:03:00.921 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:03:00.925 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:03:00.927 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:03:02.451 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:07.215 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:03:07.215 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:03:07.219 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:03:07.222 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:03:08.737 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:13.328 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:03:13.328 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:03:13.332 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:03:13.335 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:03:14.863 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:19.463 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:03:19.463 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:03:19.467 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:03:19.470 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:03:20.987 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:25.093 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:29.212 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:33.198 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:37.260 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:40.941 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:03:40.942 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:03:40.942 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:03:40.943 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:03:40.951 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:03:40.959 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:03:40.960 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:03:40.966 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', [])])
+2022-06-16 09:03:41.473 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:45.613 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:49.582 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:54.624 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:03:58.791 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:02.882 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:07.023 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:11.143 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:15.273 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:19.338 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:23.563 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:27.636 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:32.141 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:36.149 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:40.243 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:44.235 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:48.273 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:52.432 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:04:56.555 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:00.581 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:04.780 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:09.322 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '徒步')
+2022-06-16 09:05:09.322 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:09.326 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p'])])
+2022-06-16 09:05:09.329 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据徒步
+2022-06-16 09:05:10.854 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:17.008 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:05:17.008 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:17.012 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p'])])
+2022-06-16 09:05:17.015 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:05:18.538 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:23.182 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:05:23.182 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:23.186 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p'])])
+2022-06-16 09:05:23.189 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:05:24.706 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:29.322 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:05:29.323 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:29.327 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:05:29.330 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:05:30.844 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:35.437 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:05:35.437 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:35.442 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:05:35.445 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:05:36.974 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:41.610 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:05:41.611 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:41.615 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:05:41.618 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:05:43.132 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:47.731 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:05:47.731 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:47.736 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:05:47.739 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:05:49.254 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:05:53.936 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:05:53.936 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:05:53.941 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:05:53.944 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:05:55.458 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:00.066 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:06:00.066 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:06:00.071 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:06:00.074 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:06:01.580 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:06.196 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:06:06.197 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:06:06.202 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:06:06.205 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:06:07.728 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:12.274 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:06:12.274 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:06:12.279 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:06:12.281 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:06:13.800 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:18.394 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:06:18.394 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:06:18.399 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:06:18.402 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:06:19.913 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:24.595 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:06:24.595 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:06:24.600 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:06:24.603 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:06:26.131 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:30.708 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:06:30.708 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:06:30.713 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:06:30.716 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:06:32.235 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:36.472 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:40.533 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:44.550 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:48.607 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:52.247 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:06:52.247 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:06:52.248 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:06:52.248 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:06:52.256 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:06:52.265 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:06:52.266 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:06:52.275 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', [])])
+2022-06-16 09:06:52.783 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:06:56.921 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:00.957 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:05.025 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:09.069 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:13.212 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:17.308 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:21.440 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:25.600 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:29.681 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:33.780 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:37.840 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:41.863 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:46.008 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:50.097 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:54.207 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:07:58.182 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:02.308 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:06.381 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:10.516 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:14.620 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:19.154 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '走路')
+2022-06-16 09:08:19.154 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:19.159 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p'])])
+2022-06-16 09:08:19.162 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据走路
+2022-06-16 09:08:20.678 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:26.823 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:08:26.823 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:26.828 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p'])])
+2022-06-16 09:08:26.832 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:08:28.348 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:32.982 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:08:32.982 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:32.988 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p'])])
+2022-06-16 09:08:32.991 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:08:34.501 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:39.115 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:08:39.115 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:39.121 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:08:39.124 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:08:40.638 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:45.305 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:08:45.305 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:45.310 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:08:45.314 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:08:46.828 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:51.463 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:08:51.463 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:51.469 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:08:51.472 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:08:52.986 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:08:57.638 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:08:57.638 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:08:57.644 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:08:57.647 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:08:59.154 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:03.764 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:09:03.764 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:03.770 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:03.773 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:09:05.295 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:09.914 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:09:09.915 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:09.923 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:09.928 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:09:11.445 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:15.976 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:09:15.976 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:15.982 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:15.985 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:09:17.498 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:22.102 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:09:22.102 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:22.108 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:22.112 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:09:23.621 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:28.261 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:09:28.262 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:28.268 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:28.271 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:09:29.792 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:34.435 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:09:34.435 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:34.441 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:34.445 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:09:35.957 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:40.565 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:09:40.565 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:09:40.572 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:09:40.575 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:09:42.091 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:46.202 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:50.375 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:54.514 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:09:58.627 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:02.266 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:10:02.267 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:10:02.267 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:10:02.268 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:10:02.276 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:10:02.285 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:10:02.286 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:10:02.297 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('无运动记录', ['p']), ('时间目标', ['p', 'p', 'p']), ('卡路里目标', ['p', 'p', 'p']), ('距离目标', ['p', 'p', 'p', 'p', 'p']), ('户外跑步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('徒步', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('走路', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('户外骑行', [])])
+2022-06-16 09:10:02.805 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:06.897 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:11.057 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:15.130 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:19.222 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:23.279 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:27.381 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:31.483 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:35.575 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:39.689 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:43.831 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:48.408 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:52.537 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:10:56.726 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:11:00.866 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:11:04.952 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:11:09.053 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:11:13.112 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:21:25.218 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 09:21:27.611 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:21:27.612 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 09:21:27.613 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 09:21:27.613 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:21:27.613 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:21:27.614 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:21:27.614 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:21:27.615 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:21:27.616 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:21:27.617 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:21:27.617 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 09:21:27.639 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:21:27.732 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 09:21:27.734 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:21:27.734 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:21:27.735 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:21:27.735 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:21:27.736 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:21:27.736 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:21:27.738 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:21:27.739 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'室内骑行': []}
+2022-06-16 09:21:28.249 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:21:32.294 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:21:36.424 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:21:41.540 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:21:45.691 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:11.005 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 09:22:13.343 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:22:13.344 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 09:22:13.344 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 09:22:13.345 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:22:13.345 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:22:13.346 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:22:13.346 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:22:13.347 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:22:13.347 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:22:13.349 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:22:13.349 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 09:22:13.380 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:13.476 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 09:22:13.478 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:22:13.478 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:22:13.479 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:22:13.479 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:22:13.480 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:22:13.481 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:22:13.482 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:22:13.483 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'户外骑行': []}
+2022-06-16 09:22:13.993 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:18.191 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:22.234 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:26.352 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:30.394 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:34.496 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:38.957 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:43.058 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:47.195 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:51.535 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:22:55.635 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:00.254 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:04.317 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:08.468 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:12.535 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:16.576 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:20.705 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:24.805 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:28.875 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:32.895 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:36.916 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:41.144 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:45.161 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:49.235 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:23:53.908 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '户外骑行')
+2022-06-16 09:23:53.908 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:23:53.910 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p'])])
+2022-06-16 09:23:53.911 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据户外骑行
+2022-06-16 09:23:55.425 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:01.538 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:24:01.538 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:01.540 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p'])])
+2022-06-16 09:24:01.542 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:24:03.065 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:07.701 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:24:07.701 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:07.703 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p'])])
+2022-06-16 09:24:07.705 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:24:09.215 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:13.790 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:24:13.790 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:13.792 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:24:13.794 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:24:15.305 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:19.952 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:24:19.952 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:19.954 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:19.956 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:24:21.482 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:25.998 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:24:25.998 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:26.000 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:26.002 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:24:27.507 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:32.147 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:24:32.147 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:32.149 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:32.151 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:24:33.659 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:38.297 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:24:38.298 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:38.299 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:38.301 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:24:39.813 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:44.506 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:24:44.506 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:44.508 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:44.510 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:24:46.020 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:50.596 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:24:50.596 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:50.598 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:50.600 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:24:52.125 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:24:56.753 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:24:56.753 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:24:56.755 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:24:56.757 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:24:58.269 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:02.784 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:25:02.784 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:25:02.785 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:25:02.788 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:25:04.317 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:08.953 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:25:08.953 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:25:08.955 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:25:08.958 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:25:10.463 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:15.063 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:25:15.065 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:25:15.068 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:25:15.070 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:25:16.583 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:20.595 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:24.658 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:28.717 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:32.785 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:36.460 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:25:36.460 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:25:36.461 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:25:36.461 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:25:36.469 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:25:36.477 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:25:36.478 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:25:36.482 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', [])])
+2022-06-16 09:25:36.986 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:41.125 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:45.196 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:49.347 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:53.463 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:25:57.539 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:01.618 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:05.722 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:09.774 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:13.885 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:18.036 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:22.193 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:26.278 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:30.347 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:34.477 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:38.625 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:42.758 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:46.846 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:50.969 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:55.116 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:26:59.255 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:03.384 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:07.960 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '室内骑行')
+2022-06-16 09:27:07.960 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:07.963 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p'])])
+2022-06-16 09:27:07.966 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据室内骑行
+2022-06-16 09:27:09.476 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:15.594 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:27:15.594 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:15.597 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p'])])
+2022-06-16 09:27:15.599 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:27:17.115 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:21.748 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:27:21.748 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:21.751 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p'])])
+2022-06-16 09:27:21.753 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:27:23.267 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:27.896 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:27:27.896 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:27.899 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:27:27.901 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:27:29.414 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:34.125 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:27:34.125 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:34.128 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:27:34.130 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:27:35.656 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:40.206 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:27:40.206 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:40.209 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:27:40.212 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:27:41.736 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:46.339 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:27:46.339 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:46.342 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:27:46.345 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:27:47.872 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:52.567 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:27:52.567 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:52.570 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:27:52.573 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:27:54.074 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:27:58.672 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:27:58.672 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:27:58.675 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:27:58.677 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:28:00.204 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:04.927 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:28:04.927 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:28:04.930 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:28:04.933 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:28:06.444 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:11.005 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:28:11.006 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:28:11.009 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:28:11.011 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:28:12.531 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:17.005 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:28:17.006 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:28:17.009 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:28:17.012 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:28:18.534 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:23.077 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:28:23.078 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:28:23.081 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:28:23.084 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:28:24.592 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:29.270 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:28:29.270 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:28:29.274 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:28:29.276 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:28:30.786 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:34.901 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:38.957 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:43.035 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:47.153 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:50.773 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:28:50.774 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:28:50.774 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:28:50.775 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:28:50.783 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:28:50.791 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:28:50.792 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:28:50.798 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', [])])
+2022-06-16 09:28:51.308 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:55.395 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:28:59.513 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:03.547 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:07.658 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:11.778 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:15.862 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:20.007 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:24.133 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:28.226 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:32.376 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:36.474 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:40.626 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:44.786 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:48.872 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:53.017 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:29:57.177 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:01.316 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:05.434 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:09.498 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:13.568 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:17.605 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:22.207 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '划船机')
+2022-06-16 09:30:22.207 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:30:22.211 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p'])])
+2022-06-16 09:30:22.213 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据划船机
+2022-06-16 09:30:23.725 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:29.883 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:30:29.883 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:30:29.887 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p'])])
+2022-06-16 09:30:29.890 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:30:31.414 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:36.018 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:30:36.018 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:30:36.022 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p'])])
+2022-06-16 09:30:36.025 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:30:37.539 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:42.113 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:30:42.113 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:30:42.117 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:30:42.120 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:30:43.632 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:48.206 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:30:48.206 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:30:48.210 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:30:48.213 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:30:49.727 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:30:54.306 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:30:54.306 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:30:54.310 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:30:54.313 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:30:55.831 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:00.418 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:31:00.420 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:00.425 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:00.428 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:31:01.944 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:06.550 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:31:06.550 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:06.554 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:06.557 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:31:08.070 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:12.669 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:31:12.669 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:12.674 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:12.676 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:31:14.203 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:18.812 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:31:18.812 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:18.817 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:18.820 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:31:20.329 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:24.982 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:31:24.982 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:24.987 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:24.990 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:31:26.499 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:31.120 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:31:31.120 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:31.125 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:31.128 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:31:32.637 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:37.187 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:31:37.188 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:37.192 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:37.196 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:31:38.707 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:43.315 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:31:43.316 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:31:43.320 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:31:43.324 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:31:44.834 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:49.008 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:53.197 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:31:57.348 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:01.401 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:05.095 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:32:05.096 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:32:05.096 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:32:05.097 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:32:05.105 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:32:05.113 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:32:05.114 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:32:05.123 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', [])])
+2022-06-16 09:32:05.638 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:09.730 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:13.880 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:18.093 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:22.189 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:26.306 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:30.439 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:34.513 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:38.589 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:42.648 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:46.740 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:50.873 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:54.944 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:32:59.054 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:03.112 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:07.267 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:11.395 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:15.481 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:19.537 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:23.644 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:27.776 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:31.959 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:36.544 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '椭圆机')
+2022-06-16 09:33:36.544 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:33:36.549 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p'])])
+2022-06-16 09:33:36.552 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据椭圆机
+2022-06-16 09:33:38.057 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:44.202 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:33:44.202 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:33:44.208 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p'])])
+2022-06-16 09:33:44.211 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:33:45.718 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:50.289 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:33:50.289 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:33:50.294 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p'])])
+2022-06-16 09:33:50.297 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:33:51.826 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:33:56.418 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:33:56.418 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:33:56.423 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:33:56.426 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:33:57.936 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:02.456 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:34:02.457 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:02.462 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:02.465 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:34:03.987 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:08.550 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:34:08.550 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:08.555 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:08.559 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:34:10.067 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:14.677 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:34:14.677 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:14.682 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:14.686 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:34:16.193 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:20.792 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:34:20.792 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:20.801 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:20.805 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:34:22.322 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:26.976 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:34:26.976 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:26.981 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:26.985 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:34:28.493 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:33.192 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:34:33.192 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:33.197 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:33.201 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:34:34.711 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:39.363 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:34:39.363 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:39.369 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:39.372 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:34:40.894 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:45.476 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:34:45.476 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:45.482 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:45.485 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:34:46.995 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:51.579 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:34:51.579 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:51.585 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:51.589 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:34:53.107 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:34:57.747 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:34:57.747 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:34:57.753 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:34:57.757 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:34:59.263 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:03.374 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:07.553 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:11.637 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:15.706 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:19.442 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:35:19.443 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:35:19.444 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:35:19.444 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:35:19.452 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:35:19.460 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:35:19.462 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:35:19.472 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', [])])
+2022-06-16 09:35:19.977 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:24.020 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:28.214 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:32.347 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:36.473 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:40.626 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:44.778 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:48.926 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:53.008 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:35:57.130 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:01.235 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:05.381 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:09.546 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:13.665 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:17.785 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:21.856 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:25.915 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:29.984 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:34.076 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:38.191 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:42.332 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:46.435 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:51.118 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '瑜伽')
+2022-06-16 09:36:51.118 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:36:51.124 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p'])])
+2022-06-16 09:36:51.128 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据瑜伽
+2022-06-16 09:36:52.643 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:36:58.747 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情1')
+2022-06-16 09:36:58.747 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:36:58.753 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p'])])
+2022-06-16 09:36:58.757 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情1
+2022-06-16 09:37:00.260 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:04.885 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情2')
+2022-06-16 09:37:04.886 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:04.892 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p'])])
+2022-06-16 09:37:04.895 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情2
+2022-06-16 09:37:06.422 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:11.094 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情3')
+2022-06-16 09:37:11.094 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:11.101 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:37:11.104 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情3
+2022-06-16 09:37:12.610 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:17.250 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情4')
+2022-06-16 09:37:17.250 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:17.258 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:17.262 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情4
+2022-06-16 09:37:18.776 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:23.341 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情5')
+2022-06-16 09:37:23.341 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:23.347 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:23.351 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情5
+2022-06-16 09:37:24.856 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:29.388 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情6')
+2022-06-16 09:37:29.388 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:29.394 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:29.398 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情6
+2022-06-16 09:37:30.903 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:35.551 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情7')
+2022-06-16 09:37:35.551 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:35.558 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:35.561 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情7
+2022-06-16 09:37:37.084 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:41.619 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情8')
+2022-06-16 09:37:41.619 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:41.626 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:41.629 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情8
+2022-06-16 09:37:43.150 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:47.824 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情9')
+2022-06-16 09:37:47.824 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:47.830 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:47.834 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情9
+2022-06-16 09:37:49.350 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:37:53.955 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情10')
+2022-06-16 09:37:53.955 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:37:53.962 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:37:53.965 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情10
+2022-06-16 09:37:55.484 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:00.169 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情11')
+2022-06-16 09:38:00.169 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:38:00.176 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:38:00.180 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情11
+2022-06-16 09:38:01.687 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:06.316 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情12')
+2022-06-16 09:38:06.316 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:38:06.323 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:38:06.327 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情12
+2022-06-16 09:38:07.852 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:12.426 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录中详情13')
+2022-06-16 09:38:12.426 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:38:12.433 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:38:12.437 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录中详情13
+2022-06-16 09:38:13.940 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:18.069 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:22.187 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:26.289 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:30.429 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:34.164 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:38:34.165 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:38:34.166 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:38:34.166 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:38:34.174 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:38:34.182 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:38:34.183 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:38:34.196 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', [])])
+2022-06-16 09:38:34.710 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:38.914 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:42.998 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:46.988 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:51.394 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表1')
+2022-06-16 09:38:51.395 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:38:51.402 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p'])])
+2022-06-16 09:38:51.406 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表1
+2022-06-16 09:38:52.926 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:38:57.506 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表2')
+2022-06-16 09:38:57.506 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:38:57.513 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p'])])
+2022-06-16 09:38:57.517 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表2
+2022-06-16 09:38:59.031 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:03.686 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表3')
+2022-06-16 09:39:03.686 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:03.694 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p'])])
+2022-06-16 09:39:03.698 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表3
+2022-06-16 09:39:05.222 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:09.829 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表4')
+2022-06-16 09:39:09.829 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:09.837 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:39:09.841 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表4
+2022-06-16 09:39:11.362 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:15.972 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表5')
+2022-06-16 09:39:15.972 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:15.980 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:39:15.984 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表5
+2022-06-16 09:39:17.491 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:22.102 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表6')
+2022-06-16 09:39:22.102 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:22.111 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:39:22.115 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表6
+2022-06-16 09:39:23.636 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:28.208 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表7')
+2022-06-16 09:39:28.208 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:28.215 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:39:28.219 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表7
+2022-06-16 09:39:29.742 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:34.181 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表8')
+2022-06-16 09:39:34.181 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:34.189 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:39:34.193 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表8
+2022-06-16 09:39:35.714 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:40.176 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表9')
+2022-06-16 09:39:40.178 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:40.187 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:39:40.191 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表9
+2022-06-16 09:39:41.693 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:46.238 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表10')
+2022-06-16 09:39:46.238 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:39:46.246 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('户外骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('室内骑行', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('划船机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('椭圆机', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('瑜伽', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p']), ('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:39:46.250 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表10
+2022-06-16 09:39:47.769 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:39:51.768 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:19.348 | INFO     | Logs.log:info:30 -  读取config deviceid app
+2022-06-16 09:47:21.756 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:47:21.757 | INFO     | Logs.log:info:30 -  调了一个usb相机实例
+2022-06-16 09:47:21.757 | INFO     | Logs.log:info:30 -  连接usb server ("127.1.1.1", 1998)
+2022-06-16 09:47:21.758 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:47:21.758 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:47:21.759 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:47:21.759 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:47:21.766 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:47:21.772 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:47:21.773 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:47:21.773 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml None
+2022-06-16 09:47:21.795 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:21.883 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {}
+2022-06-16 09:47:21.884 | INFO     | Logs.log:info:30 -  跑脚本前清理现场
+2022-06-16 09:47:21.885 | INFO     | Logs.log:info:30 -  读取config method photo
+2022-06-16 09:47:21.885 | INFO     | Logs.log:info:30 -  文件操作 None
+2022-06-16 09:47:21.886 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\pictures
+2022-06-16 09:47:21.886 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\finishFigure\pictures
+2022-06-16 09:47:21.887 | INFO     | Logs.log:info:30 -  删除D:\ATM\Communalization\photo\originSources\videos
+2022-06-16 09:47:21.888 | INFO     | Logs.log:info:30 -  新建文件D:\ATM\Communalization\TEXT/拍照序列.txt
+2022-06-16 09:47:21.889 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml {'运动记录列表': []}
+2022-06-16 09:47:22.390 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:26.498 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:30.553 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:34.703 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:38.789 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:42.901 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:47.448 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表1')
+2022-06-16 09:47:47.448 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:47:47.450 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p'])])
+2022-06-16 09:47:47.451 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表1
+2022-06-16 09:47:48.965 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:53.554 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表2')
+2022-06-16 09:47:53.554 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:47:53.556 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p'])])
+2022-06-16 09:47:53.558 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表2
+2022-06-16 09:47:55.073 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:47:59.730 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表3')
+2022-06-16 09:47:59.730 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:47:59.731 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p'])])
+2022-06-16 09:47:59.733 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表3
+2022-06-16 09:48:01.239 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:05.893 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表4')
+2022-06-16 09:48:05.893 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:05.895 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p'])])
+2022-06-16 09:48:05.897 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表4
+2022-06-16 09:48:07.424 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:12.058 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表5')
+2022-06-16 09:48:12.058 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:12.060 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:48:12.062 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表5
+2022-06-16 09:48:13.590 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:18.199 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表6')
+2022-06-16 09:48:18.199 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:18.201 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:48:18.203 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表6
+2022-06-16 09:48:19.715 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:24.318 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表7')
+2022-06-16 09:48:24.318 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:24.320 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:48:24.322 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表7
+2022-06-16 09:48:25.834 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:30.488 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表8')
+2022-06-16 09:48:30.488 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:30.490 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:48:30.493 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表8
+2022-06-16 09:48:32.005 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:36.610 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表9')
+2022-06-16 09:48:36.610 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:36.612 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:48:36.614 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表9
+2022-06-16 09:48:38.130 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:42.777 | INFO     | Logs.log:info:30 -  发送消息 ('p', 'sport_record_carema.yaml', '运动记录列表10')
+2022-06-16 09:48:42.777 | INFO     | Logs.log:info:30 -  写资源类型到文件 sport_record_carema.yaml p
+2022-06-16 09:48:42.780 | INFO     | Logs.log:info:30 -  写入yaml文件 sport_record_carema.yaml ordereddict([('运动记录列表', ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'])])
+2022-06-16 09:48:42.782 | INFO     | Logs.log:info:30 -  写入文件D:\ATM\Communalization\TEXT/拍照序列.txt:数据运动记录列表10
+2022-06-16 09:48:44.308 | INFO     | Logs.log:info:30 -  读取config demoname app
+2022-06-16 09:48:48.386 | INFO     | Logs.log:info:30 -  读取config demoname app

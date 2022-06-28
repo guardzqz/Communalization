@@ -1,0 +1,260 @@
+case_data_1:
+  event_rem_1:
+    event_time: '2023/05/12/15/00'
+    event_NO: '01'
+    event_head: 'test_head..1'
+    event_body: 'test_body1-----'
+
+  event_rem_2:
+    event_time: '2023/05/13/13/00'
+    event_NO: '02'
+    event_head: 'test_head..2'
+    event_body: 'test_body2-----'
+
+  entry: ['提醒事项界面','左滑提醒','对弹出删除icon的提醒事项进行右滑','删除第二条事项后界面','事件提醒详情页','删除事项后返回事项提醒UI']
+
+case_data_2:
+  event_rem_1:
+    event_time: '2023/01/06/09/00'
+    event_NO: '01'
+    event_head: '一二三四五六七八九十一二三四五六七八九十一二三四12'
+    event_body: '一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九12'
+
+  event_rem_2:
+    event_time: '2023/01/03/00/00'
+    event_NO: '02'
+    event_head: 'test_date: 提醒事项列表'
+    event_body: 'test_body: 提醒事项列表'
+    h_unit: '24'
+
+  event_rem_3:
+    event_time: '2023/01/03/12/00'
+    event_NO: '03'
+    event_head: 'test_head: 提醒事项列表'
+    event_body: 'test_body: 提醒事项列表'
+    h_unit: '24'
+
+  event_rem_4:
+    event_time: '2023/01/03/09/30'
+    event_NO: '04'
+    event_head: 'test_head: 提醒事项列表'
+    event_body: 'test_body: 提醒事项列表'
+    h_unit: '24'
+
+  event_rem_5:
+    event_time: '2023/01/03/19/45'
+    event_NO: '05'
+    event_head: 'test_head: 提醒事项列表'
+    event_body: 'test_body: 提醒事项列表'
+    h_unit: '24'
+
+  entry: ['最大标题长度显示','最大内容长度显示','日期显示格式检查: 06/01 9：00','24小时制,提醒时间显示00：00, 12：00','12小时制,12：00AM；12:00PM','24小时制,提醒时间显示09：30,19：45','12小时制,09：30AM,07:45PM']
+
+
+case_data_3:
+  event_rem_1:
+    event_time: '2023/01/03/09/00'
+    event_NO: '01'
+    event_head: '一二三四五六七八九十一二三四五六七八九十一二三四12'
+    event_body: 'test_body: 01/03/09/00'
+    h_unit: '12'
+
+  event_rem_2:
+    event_time: '2023/01/03/15/00'
+    event_NO: '02'
+    event_head: 'test_date: 01/03/15/00'
+    event_body: 'test_body: 01/03/15/00'
+    h_unit: '12'
+
+  event_rem_3:
+    event_time: '2023/01/03/10/30'
+    event_NO: '03'
+    event_head: 'test_date: 01/03/10/30'
+    event_body: 'test_body: 01/03/10/30'
+    h_unit: '24'
+
+  event_rem_4:
+    event_time: '2023/01/03/22/00'
+    event_NO: '04'
+    event_head: 'test_date: 01/03/22/00'
+    event_body: 'test_body: 01/03/22/00'
+    h_unit: '24'
+
+  event_rem_5:
+    event_time: '2023/01/03/00/00'
+    event_NO: '05'
+    event_head: 'test_date: 01/03/00/00'
+    event_body: 'test_body: 01/03/00/00'
+    h_unit: '12'
+  event_rem_6:
+    event_time: '2023/01/03/12/00'
+    event_NO: '06'
+    event_head: 'test_date: 01/03/12/00'
+    event_body: 'test_body: 01/03/12/00'
+    h_unit: '12'
+  event_rem_7:
+    event_time: '2023/01/03/09/30'
+    event_NO: '07'
+    event_head: 'test_date: 01/03/09/30'
+    event_body: 'test_body: 01/03/09/30'
+    h_unit: '24'
+  event_rem_8:
+    event_time: '2023/01/03/19/45'
+    event_NO: '08'
+    event_head: 'test_date: 01/03/19/45'
+    event_body: 'test_body: 01/03/19/45'
+    h_unit: '24'
+
+  entry: ['触发事项提醒，提醒时间显示9：00AM','触发事项提醒，提醒时间显示9：00','触发事项提醒，提醒时间显示03：00PM','触发事项提醒，提醒时间显示15：00','提醒时间显示10：30','提醒时间显示10：30AM','触发事项提醒，提醒时间显示22：00','提醒时间显示10：00pm',
+          '提醒时间显示12：00AM','提醒时间显示00：00','提醒时间显示12:00PM','提醒时间显示12：00','提醒时间显示9：30','提醒时间显示9：30AM','提醒时间显示19：45','提醒时间显示7：45PM']
+
+case_data_4:
+  event_rem_1:
+    event_time: '2023/05/28/09/00'
+    event_NO: '01'
+    event_head: '一二三四五六七八九十一二三四五六七八九十一二三四12'
+    event_body: 'test_body: test——事项提醒详情页'
+    h_unit: '12'
+
+  event_rem_2:
+    event_time: '2023/05/28/15/00'
+    event_NO: '02'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '12'
+
+  event_rem_3:
+    event_time: '2023/07/16/10/30'
+    event_NO: '03'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '24'
+
+  event_rem_4:
+    event_time: '2023/07/16/22/30'
+    event_NO: '04'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '24'
+
+  event_rem_5:
+    event_time: '2023/07/16/00/00'
+    event_NO: '05'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '12'
+  event_rem_6:
+    event_time: '2023/01/03/12/00'
+    event_NO: '06'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '12'
+  event_rem_7:
+    event_time: '2023/01/03/09/30'
+    event_NO: '07'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '24'
+  event_rem_8:
+    event_time: '2023/01/03/19/45'
+    event_NO: '08'
+    event_head: 'test_head: test_head 事项提醒详情页'
+    event_body: 'test_body: test_body 事项提醒详情页'
+    h_unit: '24'
+
+  entry: ['提醒时间显示28/05 9：00AM','提醒时间显示28/05 9：00','提醒时间显示28/05 3：00PM','提醒时间显示28/05 15：00','提醒时间显示16/07 10：30','提醒时间显示16/07 10：30AM','提醒时间显示16/07 22：00','提醒时间显示16/07 10：00PM','时间显示12：00AM','提醒时间显示00：00','提醒时间显示12:00PM','提醒时间显示12：00','提醒时间显示9：30',' 提醒时间显示9：30AM','提醒时间显示19：45','提醒时间显示7：45PM']
+
+
+
+case_data_5:
+  event_rem_1:
+    event_time: '2023/01/01/10/00'
+    event_NO: '01'
+    event_head: '相同标题排序测试'
+    event_body: 'test_body: test——事项提醒详情页'
+    h_unit: '12'
+
+  event_rem_2:
+    event_time: '2023/01/02/08/00'
+    event_NO: '02'
+    event_head: '相同标题排序测试'
+    event_body: 'test_body: test——事项提醒详情页'
+    h_unit: '12'
+
+  event_rem_3:
+    event_time: '2023/01/02/08/00'
+    event_NO: '03'
+    event_head: '1'
+    event_body: 'test_body: test——事项提醒详情页'
+    h_unit: '12'
+
+  event_rem_4:
+    event_time: '2023/01/02/08/00'
+    event_NO: '04'
+    event_head: '2'
+    event_body: 'test_body: test——事项提醒详情页'
+    h_unit: '12'
+
+  head_bodys_1:
+    start_count: 5
+    end_count: 10
+    head: 'test_head: '
+    body: 'test_body: '
+    event_time: '2023/01/01/20/30'
+
+  head_bodys_2:
+    start_count: 10
+    end_count: 15
+    head: 'test_head: '
+    body: 'test_body: '
+    event_time: '2023/01/02/20/25'
+
+  entry: ['相同标题,按时间排序:1月1号10:00->1月2号08:00','相同时间提醒,按标题排序: 1,2','相同时间提醒,显示排序第一条提醒: 1','提醒时间触发过后后,左侧竖条为蓝色',
+            '1月1号,2号分别5个提醒,排序.页面:1','1月1号,2号分别5个提醒,排序.页面:2','1月1号,2号分别5个提醒,排序.页面:3','一条已经触发的提醒,置底','未触发的提醒','未触发的提醒','已触发提醒']
+
+
+case_data_6:
+  head_bodys:
+    start_count: 1
+    end_count: 31
+    head: 'test_head: '
+    body: 'test_body: '
+    event_time: '2023/07/16/22/30'
+  entry: ['30条提醒: 1','30条提醒: 2','30条提醒: 3','30条提醒: 4','30条提醒: 5','30条提醒: 6','30条提醒: 7','30条提醒: 8','30条提醒: 9','30条提醒: 10','30条提醒: 11']
+
+
+case_data_7:
+  head_body:
+    - ['01234567890','9876543210']
+    - ['AzByCxaijq','J.Q.Schwartzflung D.V.Pike with my box.']
+    - ['AaEeIiOoUuÄäÖöÜüẞß','ÄäÖöÜüẞßAaEeIiOoUu']
+    - ['àâèéêîïôöùûüçœæ€ÀÂÈÉÊËÎÏÔÖÙÛÇŒ Æ€','ÀÂÈÉÊËÎÏÔÖÙÛÇŒ Æ€àâèéêîïôöùûüçœ æ€']
+    - ['áéíóúüÑñ¿?¡!ChLL','¿?¡!ChLLáéíóúüÑñ']
+    - ["áàDov'èall'inizio","áàDov'è la Vittoria?!"]
+    - ["Zij is naar het station gelopen","Zij is naar het station gelopen"]
+    - ["ÁáÂâÃãÀàÇçÉéÊêÍíÓóÔôÕõÚúÜü","(Êê)ÁáÂâÃãÀàÇçÉéÊêÍíÓóÔôÕõÚúÜü"]
+    - ["今天天气好晴朗！","我去上学校，背着小书包。"]
+    - ["LlŁłMmnŃńOoÓóPpQqRrSsŚś","LlŁłMmnŃńOoÓóPpQqRrSsŚś"]
+  language: ['数字','英文','德文','法文','西班牙文','意大利文','荷兰语','葡萄牙文','中文','波兰语']
+
+
+event_operate:
+  event_right: 74-01-00-10-00-00-00-12
+  event_xy: 74-01-00-96-00-32-00-01
+  event_del_xy2: 74-01-01-0e-00-dc-00-01
+  event_page_del_xy: 74-01-00-96-00-dc-00-01
+  event_rem_xy: 74-01-00-96-00-50-00-01
+  event_rem_del_xy: 74-01-00-96-00-ea-00-01
+  event_page_xy1: 74-01-00-96-00-50-00-01
+  event_page_xy2: 74-01-00-96-00-b4-00-01
+  event_page_xy3: 74-01-00-96-01-18-00-01
+  event_time_24: 03-11-00-00-00-1e-00-01-1e-00-01
+  event_time_12: 03-11-00-00-00-1e-00-02-1e-00-01
+
+
+test:
+  - re_page
+  - set_events: [ 'event_rem_1', 'event_rem_2' ]
+  - p
+  - slide_left
+  - p

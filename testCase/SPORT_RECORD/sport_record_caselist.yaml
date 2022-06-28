@@ -1,0 +1,307 @@
+case_list_1 :
+  - into_sport_list
+  - p
+  - slide_right
+  - slide_right
+
+case_list_2 :
+  - set_sport : [户外跑步]
+  - into_sport_1
+  - click: [150,120]  #进入室内跑步
+  - click: [101,240]  #进入运动目标
+  - click: [150,80]  #点击运动目标
+  - set_time_exe : 'to_data_1'
+  - p
+  - click: [150,250]  #
+  - set_data_daily : [distance,666]
+  - set_time_exe : 'to_data_2'
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - click: [150,50]  #运动记录详情
+  - p
+  - ringt_3
+  - into_sport_1
+  - click: [150,120]  #进入室内跑步
+  - click: [101,240]  #进入运动目标
+  - click: [150,80]  #点击运动目标
+  - set_time_exe : 'to_data_1'
+  - click: [150,250]  #
+  - set_data_daily : [distance,666]
+  - set_time_exe : 'to_data_3'
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - click: [150,50]  #运动记录详情
+  - p
+  - ringt_3
+
+
+case_list_3 :
+  - into_sport_1
+  - click: [150,120]  #进入室内跑步
+  - click: [101,240]  #进入运动目标
+  - click: [150,160]  #
+  - p
+  - click: [150,250]
+  - set_data_daily: [kcal,100]
+  - set_data_daily: [distance,666]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - click: [150,50]
+  - p
+  - ringt_3
+  - into_sport_1
+  - click: [150,120]  #进入室内跑步
+  - click: [101,240]  #进入运动目标
+  - click: [150,160]  #
+  - click: [150,250]
+  - set_data_daily: [kcal,200]
+  - set_data_daily: [distance,666]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - click: [150,50]
+  - p
+  - ringt_3
+
+case_list_4 :
+  - into_sport_1
+  - click: [150,120]  #进入室内跑步
+  - click: [101,240]  #进入运动目标
+  - click: [150,250]  #
+  - p
+  - click: [150,250]
+  - set_data_daily: [ distance,2500]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - click: [150,50]
+  - p
+  - ringt_3
+  - into_sport_1
+  - click: [150,120]  #进入室内跑步
+  - click: [101,240]  #进入运动目标
+  - click: [150,250]  #
+  - click: [150,250]
+  - set_data_daily: [distance,5000]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - click: [ 150,50 ]
+  - p
+  - slide_up_2
+  - set_dis: [0] #设置英制
+  - sleep
+  - p
+  - set_dis: [1] #设置公制
+  - sleep
+  - p
+  - ringt_3
+
+
+case_list_5 :
+  - set_sport : [户外跑步]
+  - into_sport_1
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+case_list_6 :
+  - set_sport : [徒步]
+  - into_sport_1
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+case_list_7 :
+  - set_sport : [走路]
+  - into_sport_1
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+
+
+case_list_8 :
+  - set_sport : [户外骑行]
+  - into_sport_1
+  - set_time_exe : 'to_data_1'
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - set_time_exe : 'to_data_2'
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+
+case_list_9 :
+  - set_sport : [室内骑行]
+  - into_sport_1
+  - set_time_exe : 'to_data_1'
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - set_time_exe : 'to_data_2'
+  - slide_right
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+
+case_list_10 :
+  - set_sport : [划船机]
+  - into_sport_1
+  - set_time_exe : 'to_data_1'
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - set_time_exe : 'to_data_2'
+  - slide_right
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+case_list_11 :
+  - set_sport : [椭圆机]
+  - into_sport_1
+  - set_time_exe : 'to_data_1'
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - set_time_exe : 'to_data_2'
+  - slide_right
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+
+case_list_12 :
+  - set_sport : [瑜伽]
+  - into_sport_1
+  - set_time_exe : 'to_data_1'
+  - click: [150,250]  #进入运动
+  - click: [150,150]  #
+  - click: [160,250]  #GPS确定
+  - set_data_daily: [distance,55555]
+  - set_data_daily: [step,55555]
+  - set_data_daily: [kcal,55555]
+  - set_time_exe : 'to_data_2'
+  - slide_right
+  - slide_right
+  - close_sport_2
+  - into_sport_list_2
+  - p
+  - click: [150,50]
+  - sleep
+  - while_operation :
+      - 13
+      - p
+      - slide_up_2
+  - ringt_3
+
+case_list_13 :
+  - into_sport_list
+  - while_operation :
+      - 10
+      - p
+      - slide_up_2
+
+
+
+
+

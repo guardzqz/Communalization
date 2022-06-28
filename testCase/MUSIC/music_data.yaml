@@ -1,0 +1,74 @@
+test_data_1 :
+   data : ['']
+   illustrate : ['关闭音乐', '打开音乐']
+
+test_data_2 :
+  data: [ '有','有没','有没有','有没有人','有没有人曾','有没有人曾经','有没有人曾经告','有没有人曾经告诉你','有没有人曾经告诉你我','有没有人曾告诉你我很','有没有人曾告诉你我很爱','有没有人曾告诉你我很爱你' ]
+  illustrate : [ '有','有没','有没有','有没有人','有没有人曾','有没有人曾经','有没有人曾经告','有没有人曾经告诉你','有没有人曾经告诉你我','有没有人曾告诉你我很','有没有人曾告诉你我很爱','有没有人曾告诉你我很爱你' ]
+
+test_data_3 :
+  data: ['Has','Has anyone','Has anyone ever','Has anyone ever told','Has anyone ever told you I','Has anyone ever told you I love','Has anyone ever told you I love you?']
+  illustrate : ['Has','Has anyone','Has anyone ever','Has anyone ever told','Has anyone ever told you I','Has anyone ever told you I love','Has anyone ever told you I love you?']
+
+
+test_data_4 :
+  data: ['quiero','quiero ser','quiero ser una','quiero ser una persona','quiero ser una persona muy','quiero ser una persona muy fuerte','quiero ser una persona muy fuerte ante','quiero ser una persona muy fuerte ante el','quiero ser una persona muy fuerte ante el futuro si','quiero ser una persona muy fuerte ante el futuro si me ayudas']
+  illustrate : ['quiero','quiero ser','quiero ser una','quiero ser una persona','quiero ser una persona muy','quiero ser una persona muy fuerte','quiero ser una persona muy fuerte ante','quiero ser una persona muy fuerte ante el','quiero ser una persona muy fuerte ante el futuro si','quiero ser una persona muy fuerte ante el futuro si me ayudas']
+
+
+
+test_data_5 :
+  data: ['Voglio','Voglio essere','Voglio essere una','Voglio essere una persona','Voglio essere una persona molto','Voglio essere una persona molto forte','Voglio essere una persona molto forte prima','Voglio essere una persona molto forte prima di','Voglio essere una persona molto forte prima di il']
+  illustrate : ['Voglio','Voglio essere','Voglio essere una','Voglio essere una persona','Voglio essere una persona molto','Voglio essere una persona molto forte','Voglio essere una persona molto forte prima','Voglio essere una persona molto forte prima di','Voglio essere una persona molto forte prima di il']
+
+
+
+test_data_6 :
+  data: [ 'Ich','Ich möchte','Ich möchte vor','Ich möchte vor der','Ich möchte vor der Zukunft','Ich möchte vor der Zukunft eine','Ich möchte vor der Zukunft eine sehr','Ich möchte vor der Zukunft eine sehr starke','Ich möchte vor der Zukunft eine sehr starke Person','Ich möchte vor der Zukunft eine sehr starke Person sein' ]
+  illustrate : [ 'Ich','Ich möchte','Ich möchte vor','Ich möchte vor der','Ich möchte vor der Zukunft','Ich möchte vor der Zukunft eine','Ich möchte vor der Zukunft eine sehr','Ich möchte vor der Zukunft eine sehr starke','Ich möchte vor der Zukunft eine sehr starke Person','Ich möchte vor der Zukunft eine sehr starke Person sein' ]
+
+
+
+test_data_7 :
+  data: [ 'Ik','Ik wil','Ik wil in','Ik wil in de','Ik wil in de toekomst','Ik wil in de toekomst een','Ik wil in de toekomst een sterk','Ik wil in de toekomst een sterk persoon','Ik wil in de toekomst een sterk persoon zijn','Ik wil in de toekomst een sterk persoon zijn als je','Ik wil in de toekomst een sterk persoon zijn als je me' ]
+  illustrate : [ 'Ik','Ik wil','Ik wil in','Ik wil in de','Ik wil in de toekomst','Ik wil in de toekomst een','Ik wil in de toekomst een sterk','Ik wil in de toekomst een sterk persoon','Ik wil in de toekomst een sterk persoon zijn','Ik wil in de toekomst een sterk persoon zijn als je','Ik wil in de toekomst een sterk persoon zijn als je me' ]
+
+
+
+test_data_8 :
+  data: [ 'Chcę','Chcę być','Chcę być silną','Chcę być silną osobą','Chcę być silną osobą w','Chcę być silną osobą w przyszłości','Chcę być silną osobą w przyszłości, jeśli','Chcę być silną osobą w przyszłości, jeśli','Chcę być silną osobą w przyszłości, jeśli mi','Chcę być silną osobą w przyszłości, jeśli mi pomożesz' ]
+  illustrate : [ 'Chcę','Chcę być','Chcę być silną','Chcę być silną osobą','Chcę być silną osobą w','Chcę być silną osobą w przyszłości','Chcę być silną osobą w przyszłości, jeśli','Chcę być silną osobą w przyszłości, jeśli','Chcę być silną osobą w przyszłości, jeśli mi','Chcę być silną osobą w przyszłości, jeśli mi pomożesz' ]
+
+
+
+test_data_9 :
+  data: [ 'Eu','Eu quero','Eu quero ser','Eu quero ser uma','Eu quero ser uma pessoa','Eu quero ser uma pessoa forte','Eu quero ser uma pessoa forte no','Eu quero ser uma pessoa forte no futuro','Eu quero ser uma pessoa forte no futuro se','Eu quero ser uma pessoa forte no futuro se você','Eu quero ser uma pessoa forte no futuro se você me','Eu quero ser uma pessoa forte no futuro se você me ajudar' ]
+  illustrate : [ 'Eu','Eu quero','Eu quero ser','Eu quero ser uma','Eu quero ser uma pessoa','Eu quero ser uma pessoa forte','Eu quero ser uma pessoa forte no','Eu quero ser uma pessoa forte no futuro','Eu quero ser uma pessoa forte no futuro se','Eu quero ser uma pessoa forte no futuro se você','Eu quero ser uma pessoa forte no futuro se você me','Eu quero ser uma pessoa forte no futuro se você me ajudar' ]
+
+
+
+test_data_10 :
+  data: [ 'मैं','मैं भविष्य','ैं भविष्य में','मैं भविष्य में एक','मैं भविष्य में एक मजबूत','मैं भविष्य में एक मजबूत इंसान','मैं भविष्य में एक मजबूत इंसान बनना','मैं भविष्य में एक मजबूत इंसान बनना चाहता','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर आप','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अग','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर आप मेरी','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर आप मेरी मदद करेंग' ]
+  illustrate : [ 'मैं','मैं भविष्य','ैं भविष्य में','मैं भविष्य में एक','मैं भविष्य में एक मजबूत','मैं भविष्य में एक मजबूत इंसान','मैं भविष्य में एक मजबूत इंसान बनना','मैं भविष्य में एक मजबूत इंसान बनना चाहता','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर आप','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अग','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर आप मेरी','मैं भविष्य में एक मजबूत इंसान बनना चाहता हूं अगर आप मेरी मदद करेंग' ]
+
+
+
+test_data_11 :
+  data: [ 'I도움이','I want 도움이 된다면','I want to be a 도움이 된다면 미래에','I want to be a strong 도움이 된다면 미래에 강한 ','I want to be a strong person in the 도움이 된다면 미래에 강한 사람이' ]
+  illustrate : [ 'I도움이','I want 도움이 된다면','I want to be a 도움이 된다면 미래에','I want to be a strong 도움이 된다면 미래에 강한 ','I want to be a strong person in the 도움이 된다면 미래에 강한 사람이' ]
+
+test_data_12 :
+  data: ['zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP','zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOPzxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP']
+  illustrate : [ 'zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP','zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOPzxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP' ]
+
+test_data_13 :
+  data: ['']
+  illustrate : ['音乐界面','音乐进入喝水提醒','音乐界面','音乐进入消息提醒']
+
+
+
+
+
+
+
+

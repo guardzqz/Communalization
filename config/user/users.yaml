@@ -1,0 +1,56 @@
+phone-default:
+  wakeup: 0.408, 0.648   # 相机对焦坐标
+  wakeupwait: '0.5'
+  Coordinate: 0.506, 0.873   #相机点击坐标
+  ratio: 0.52              #图片缩放比
+  rotation_angle: 90        #旋转角度
+  Screenshot: (1777,681,2953,1745)    #截图区域
+  CameraPhoto: /sdcard/DCIM/Camera   #手机拍照图片存放的位置
+usb-default:
+  ratio: 0.52              #图片缩放比
+  fps: 9.75          # usb摄像fps，决定视频时长
+hhc:
+  wakeup: 0.491,0.39
+  wakeupwait: '0.5'
+  Coordinate: 0.508,0.836
+  ratio: '0.52'
+  rotation_angle: '0'
+  Screenshot: (1321,861,1911,1611)
+  CameraPhoto: /sdcard/DCIM/Camera
+'1':
+  wakeup: 0.408,0.648
+  wakeupwait: '0.5'
+  Coordinate: 0.506,0.8731
+  ratio: '0.52'
+  rotation_angle: '0'
+  Screenshot: (1777,681,2953,1745)
+  CameraPhoto: /sdcard/DCIM/Camera
+lqc:
+  wakeup: 0.491,0.39
+  wakeupwait: '0.8'
+  Coordinate: 0.507,0.862
+  ratio: '0.62'
+  rotation_angle: '180'
+  Screenshot: (2080,1450,2950,2277)
+  CameraPhoto: /sdcard/DCIM/Camera
+shik:
+  wakeup: 0.408,0.648
+  wakeupwait: '0'
+  Coordinate: 0.506,0.873
+  ratio: '0.48'
+  rotation_angle: '180'
+  Screenshot: (1601,937,2641,2081)
+  CameraPhoto: /sdcard/DCIM/Camera
+zqz:
+  wakeup: 0.491,0.39
+  wakeupwait: '0.5'
+  Coordinate: 0.486,0.914
+  ratio: '0.72'
+  rotation_angle: '0'
+  Screenshot: (1609,1245,2417,2221)
+  CameraPhoto: /sdcard/DCIM/Camera
+
+
+
+
+
